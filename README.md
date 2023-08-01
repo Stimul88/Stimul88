@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,django,postgres,github)](https://skillicons.dev)
+
 <!--
 **Stimul88/Stimul88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
